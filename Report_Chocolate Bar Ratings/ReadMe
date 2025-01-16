@@ -1,1 +1,10 @@
+The data I have worked with is dedicated to the chocolate world (borrowed from https://www.kaggle.com/datasets/rtatman/chocolate-bar-ratings) and different types of chocolate flavors, according to the international cacao rating system. Apart from the rating system, there are companies from more than 40 countries all over the world that produce the chocolate bars on their manufacturers.
 
+The dataset shows expert ratings of over 1,700 individual chocolate bars, along with information on their regional origin, percentage of cocoa, the variety of chocolate bean used and where the beans were grown.
+
+The goal of the dashboard is to show:
+● Which countries produce the highest-rated bars?
+● Where are the best cocoa beans grown?
+● What’s the relationship between cocoa solids percentage and rating?
+
+The dashboard is of an analytical type that represents different metrics and information about companies that have cacao business, their geography, locations of manufacturers etc.
