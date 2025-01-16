@@ -3,8 +3,10 @@ The data I have worked with is dedicated to the chocolate world (borrowed from h
 The dataset shows expert ratings of over 1,700 individual chocolate bars, along with information on their regional origin, percentage of cocoa, the variety of chocolate bean used and where the beans were grown.
 
 The goal of the dashboard is to show:
-● Which countries produce the highest-rated bars?
-● Where are the best cocoa beans grown?
-● What’s the relationship between cocoa solids percentage and rating?
+
+- Which countries produce the highest-rated bars?
+- What type of cocoa beans is used most often??
+- What’s a company that produce the highest-rated bars?
+- Where are the most chocolate bar factories located?
 
 The dashboard is of an analytical type that represents different metrics and information about companies that have cacao business, their geography, locations of manufacturers etc.
